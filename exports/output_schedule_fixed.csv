@@ -1,0 +1,105 @@
+Stage,edt_time,pt_time,Team_1,Team_2,Match,Location,FULL_DATETIME_TMP,day_of_week,after_4pm_pt,game_tree,highlight
+Group A,"Thursday, June 11, at 3:00 PM",12:00 PM,Mexico,South Africa,1,"Estadio Azteca, Mexico City",2026-06-11 15:00:00,Thursday,False,Thursday | Match 1 | Mexico vs South Africa | 12:00 PM PT | Thursday,
+Group A,"Thursday, June 11, at 10:00 PM",7:00 PM,South Korea,Czechia,2,"Estadio Akron, Zapopan",2026-06-11 22:00:00,Thursday,True,Thursday | Match 2 | South Korea vs Czechia | 7:00 PM PT | Thursday,🔥 AFTER 4PM PT
+Group B,"Friday, June 12, at 3:00 PM",12:00 PM,Canada,Bosnia,3,"BMO Field, Toronto",2026-06-12 15:00:00,Friday,False,Friday | Match 3 | Canada vs Bosnia | 12:00 PM PT | Friday,
+Group D,"Friday, June 12, at 9:00 PM",6:00 PM,United States,Paraguay,4,"SoFi Stadium, Inglewood",2026-06-12 21:00:00,Friday,True,Friday | Match 4 | United States vs Paraguay | 6:00 PM PT | Friday,🔥 AFTER 4PM PT
+Group B,"Saturday, June 13, at 3:00 PM",12:00 PM,Qatar,Switzerland,8,"Levi's Stadium, Santa Clara",2026-06-13 15:00:00,Saturday,False,Saturday | Match 8 | Qatar vs Switzerland | 12:00 PM PT | Saturday,
+Group C,"Saturday, June 13, at 6:00 PM",3:00 PM,Brazil,Morocco,7,"MetLife Stadium, East Rutherford",2026-06-13 18:00:00,Saturday,False,Saturday | Match 7 | Brazil vs Morocco | 3:00 PM PT | Saturday,
+Group C,"Saturday, June 13, at 9:00 PM",6:00 PM,Haiti,Scotland,5,"Gillette Stadium, Foxborough",2026-06-13 21:00:00,Saturday,True,Saturday | Match 5 | Haiti vs Scotland | 6:00 PM PT | Saturday,🔥 AFTER 4PM PT
+Group D,"Saturday, June 13, at 11:59 PM",8:59 PM,Australia,Turkey,6,"BC Place, Vancouver",2026-06-13 23:59:00,Saturday,True,Saturday | Match 6 | Australia vs Turkey | 8:59 PM PT | Saturday,🔥 AFTER 4PM PT
+Group E,"Sunday, June 14, at 1:00 PM",10:00 AM,Germany,Curacao,10,"NRG Stadium, Houston",2026-06-14 13:00:00,Sunday,False,Sunday | Match 10 | Germany vs Curacao | 10:00 AM PT | Sunday,
+Group F,"Sunday, June 14, at 4:00 PM",1:00 PM,Netherlands,Japan,11,"AT&T Stadium, Arlington",2026-06-14 16:00:00,Sunday,False,Sunday | Match 11 | Netherlands vs Japan | 1:00 PM PT | Sunday,
+Group E,"Sunday, June 14, at 7:00 PM",4:00 PM,Ivory Coast,Ecuador,9,"Lincoln Financial Field, Philadelphia",2026-06-14 19:00:00,Sunday,True,Sunday | Match 9 | Ivory Coast vs Ecuador | 4:00 PM PT | Sunday,🔥 AFTER 4PM PT
+Group F,"Sunday, June 14, at 10:00 PM",7:00 PM,Sweden,Tunisia,12,"Estadio BBVA, Guadalupe",2026-06-14 22:00:00,Sunday,True,Sunday | Match 12 | Sweden vs Tunisia | 7:00 PM PT | Sunday,🔥 AFTER 4PM PT
+Group H,"Monday, June 15, at 12:00 PM",9:00 AM,Spain,Cape Verde,14,"Mercedes-Benz Stadium, Atlanta",2026-06-15 12:00:00,Monday,False,Monday | Match 14 | Spain vs Cape Verde | 9:00 AM PT | Monday,
+Group G,"Monday, June 15, at 3:00 PM",12:00 PM,Belgium,Egypt,16,"Lumen Field, Seattle",2026-06-15 15:00:00,Monday,False,Monday | Match 16 | Belgium vs Egypt | 12:00 PM PT | Monday,
+Group H,"Monday, June 15, at 6:00 PM",3:00 PM,Saudi Arabia,Uruguay,13,"Hard Rock Stadium, Miami Gardens",2026-06-15 18:00:00,Monday,False,Monday | Match 13 | Saudi Arabia vs Uruguay | 3:00 PM PT | Monday,
+Group G,"Monday, June 15, at 9:00 PM",6:00 PM,Iran,New Zealand,15,"SoFi Stadium, Inglewood",2026-06-15 21:00:00,Monday,True,Monday | Match 15 | Iran vs New Zealand | 6:00 PM PT | Monday,🔥 AFTER 4PM PT
+Group I,"Tuesday, June 16, at 3:00 PM",12:00 PM,France,Senegal,17,"MetLife Stadium, East Rutherford",2026-06-16 15:00:00,Tuesday,False,Tuesday | Match 17 | France vs Senegal | 12:00 PM PT | Tuesday,
+Group I,"Tuesday, June 16, at 6:00 PM",3:00 PM,Iraq,Norway,18,"Gillette Stadium, Foxborough",2026-06-16 18:00:00,Tuesday,False,Tuesday | Match 18 | Iraq vs Norway | 3:00 PM PT | Tuesday,
+Group J,"Tuesday, June 16, at 9:00 PM",6:00 PM,Argentina,Algeria,19,"Arrowhead Stadium, Kansas City",2026-06-16 21:00:00,Tuesday,True,Tuesday | Match 19 | Argentina vs Algeria | 6:00 PM PT | Tuesday,🔥 AFTER 4PM PT
+Group J,"Tuesday, June 16, at 11:59 PM",8:59 PM,Austria,Jordan,20,"Levi's Stadium, Santa Clara",2026-06-16 23:59:00,Tuesday,True,Tuesday | Match 20 | Austria vs Jordan | 8:59 PM PT | Tuesday,🔥 AFTER 4PM PT
+Group K,"Wednesday, June 17, at 1:00 PM",10:00 AM,Portugal,DR Congo,23,"NRG Stadium, Houston",2026-06-17 13:00:00,Wednesday,False,Wednesday | Match 23 | Portugal vs DR Congo | 10:00 AM PT | Wednesday,
+Group L,"Wednesday, June 17, at 4:00 PM",1:00 PM,England,Croatia,21,"AT&T Stadium, Arlington",2026-06-17 16:00:00,Wednesday,False,Wednesday | Match 21 | England vs Croatia | 1:00 PM PT | Wednesday,
+Group L,"Wednesday, June 17, at 7:00 PM",4:00 PM,Ghana,Panama,22,"BMO Field, Toronto",2026-06-17 19:00:00,Wednesday,True,Wednesday | Match 22 | Ghana vs Panama | 4:00 PM PT | Wednesday,🔥 AFTER 4PM PT
+Group K,"Wednesday, June 17, at 10:00 PM",7:00 PM,Uzbekistan,Colombia,24,"Estadio Azteca, Mexico City",2026-06-17 22:00:00,Wednesday,True,Wednesday | Match 24 | Uzbekistan vs Colombia | 7:00 PM PT | Wednesday,🔥 AFTER 4PM PT
+Group A,"Thursday, June 18, at 12:00 PM",9:00 AM,Czechia,South Africa,25,"Mercedes-Benz Stadium, Atlanta",2026-06-18 12:00:00,Thursday,False,Thursday | Match 25 | Czechia vs South Africa | 9:00 AM PT | Thursday,
+Group B,"Thursday, June 18, at 3:00 PM",12:00 PM,Switzerland,Bosnia,26,"SoFi Stadium, Inglewood",2026-06-18 15:00:00,Thursday,False,Thursday | Match 26 | Switzerland vs Bosnia | 12:00 PM PT | Thursday,
+Group B,"Thursday, June 18, at 6:00 PM",3:00 PM,Canada,Qatar,27,"BC Place, Vancouver",2026-06-18 18:00:00,Thursday,False,Thursday | Match 27 | Canada vs Qatar | 3:00 PM PT | Thursday,
+Group A,"Thursday, June 18, at 9:00 PM",6:00 PM,Mexico,South Korea,28,"Estadio Akron, Zapopan",2026-06-18 21:00:00,Thursday,True,Thursday | Match 28 | Mexico vs South Korea | 6:00 PM PT | Thursday,🔥 AFTER 4PM PT
+Group D,"Friday, June 19, at 3:00 PM",12:00 PM,United States,Australia,32,"Lumen Field, Seattle",2026-06-19 15:00:00,Friday,False,Friday | Match 32 | United States vs Australia | 12:00 PM PT | Friday,
+Group C,"Friday, June 19, at 6:00 PM",3:00 PM,Scotland,Morocco,30,"Gillette Stadium, Foxborough",2026-06-19 18:00:00,Friday,False,Friday | Match 30 | Scotland vs Morocco | 3:00 PM PT | Friday,
+Group C,"Friday, June 19, at 9:00 PM",6:00 PM,Brazil,Haiti,29,"Lincoln Financial Field, Philadelphia",2026-06-19 21:00:00,Friday,True,Friday | Match 29 | Brazil vs Haiti | 6:00 PM PT | Friday,🔥 AFTER 4PM PT
+Group D,"Friday, June 19, at 11:59 PM",8:59 PM,Turkey,Paraguay,31,"Levi's Stadium, Santa Clara",2026-06-19 23:59:00,Friday,True,Friday | Match 31 | Turkey vs Paraguay | 8:59 PM PT | Friday,🔥 AFTER 4PM PT
+Group F,"Saturday, June 20, at 1:00 PM",10:00 AM,Netherlands,Sweden,35,"NRG Stadium, Houston",2026-06-20 13:00:00,Saturday,False,Saturday | Match 35 | Netherlands vs Sweden | 10:00 AM PT | Saturday,
+Group E,"Saturday, June 20, at 4:00 PM",1:00 PM,Germany,Ivory Coast,33,"BMO Field, Toronto",2026-06-20 16:00:00,Saturday,False,Saturday | Match 33 | Germany vs Ivory Coast | 1:00 PM PT | Saturday,
+Group E,"Saturday, June 20, at 8:00 PM",5:00 PM,Ecuador,Curacao,34,"Arrowhead Stadium, Kansas City",2026-06-20 20:00:00,Saturday,True,Saturday | Match 34 | Ecuador vs Curacao | 5:00 PM PT | Saturday,🔥 AFTER 4PM PT
+Group F,"Saturday, June 20, at 11:59 PM",8:59 PM,Tunisia,Japan,36,"Estadio BBVA, Guadalupe",2026-06-20 23:59:00,Saturday,True,Saturday | Match 36 | Tunisia vs Japan | 8:59 PM PT | Saturday,🔥 AFTER 4PM PT
+Group H,"Sunday, June 21, at 12:00 PM",9:00 AM,Spain,Saudi Arabia,38,"Mercedes-Benz Stadium, Atlanta",2026-06-21 12:00:00,Sunday,False,Sunday | Match 38 | Spain vs Saudi Arabia | 9:00 AM PT | Sunday,
+Group G,"Sunday, June 21, at 3:00 PM",12:00 PM,Belgium,Iran,39,"Sofi Stadium, Inglewood",2026-06-21 15:00:00,Sunday,False,Sunday | Match 39 | Belgium vs Iran | 12:00 PM PT | Sunday,
+Group H,"Sunday, June 21, at 6:00 PM",3:00 PM,Uruguay,Cape Verde,37,"Hard Rock Stadium, Miami Gardens",2026-06-21 18:00:00,Sunday,False,Sunday | Match 37 | Uruguay vs Cape Verde | 3:00 PM PT | Sunday,
+Group G,"Sunday, June 21, at 9:00 PM",6:00 PM,New Zealand,Egypt,40,"BC Place, Vancouver",2026-06-21 21:00:00,Sunday,True,Sunday | Match 40 | New Zealand vs Egypt | 6:00 PM PT | Sunday,🔥 AFTER 4PM PT
+Group J,"Monday, June 22, at 1:00 PM",10:00 AM,Argentina,Austria,43,"AT&T Stadium, Arlington",2026-06-22 13:00:00,Monday,False,Monday | Match 43 | Argentina vs Austria | 10:00 AM PT | Monday,
+Group I,"Monday, June 22, at 5:00 PM",2:00 PM,France,Iraq,42,"Lincoln Financial Field, Philadelphia",2026-06-22 17:00:00,Monday,False,Monday | Match 42 | France vs Iraq | 2:00 PM PT | Monday,
+Group I,"Monday, June 22, at 8:00 PM",5:00 PM,Norway,Senegal,41,"MetLife Stadium, East Rutherford",2026-06-22 20:00:00,Monday,True,Monday | Match 41 | Norway vs Senegal | 5:00 PM PT | Monday,🔥 AFTER 4PM PT
+Group J,"Monday, June 22, at 11:00 PM",8:00 PM,Jordan,Algeria,44,"Levi's Stadium, Santa Clara",2026-06-22 23:00:00,Monday,True,Monday | Match 44 | Jordan vs Algeria | 8:00 PM PT | Monday,🔥 AFTER 4PM PT
+Group K,"Tuesday, June 23, at 1:00 PM",10:00 AM,Portugal,Uzbekistan,47,"NRG Stadium, Houston",2026-06-23 13:00:00,Tuesday,False,Tuesday | Match 47 | Portugal vs Uzbekistan | 10:00 AM PT | Tuesday,
+Group L,"Tuesday, June 23, at 4:00 PM",1:00 PM,England,Ghana,45,"Gillette Stadium, Foxborough",2026-06-23 16:00:00,Tuesday,False,Tuesday | Match 45 | England vs Ghana | 1:00 PM PT | Tuesday,
+Group L,"Tuesday, June 23, at 7:00 PM",4:00 PM,Panama,Croatia,46,"BMO Field, Toronto",2026-06-23 19:00:00,Tuesday,True,Tuesday | Match 46 | Panama vs Croatia | 4:00 PM PT | Tuesday,🔥 AFTER 4PM PT
+Group K,"Tuesday, June 23, at 10:00 PM",7:00 PM,Colombia,DR Congo,48,"Estadio Akron, Zapopan",2026-06-23 22:00:00,Tuesday,True,Tuesday | Match 48 | Colombia vs DR Congo | 7:00 PM PT | Tuesday,🔥 AFTER 4PM PT
+Group B,"Wednesday, June 24, at 3:00 PM",12:00 PM,Switzerland,Canada,51,"BC Place, Vancouver",2026-06-24 15:00:00,Wednesday,False,Wednesday | Match 51 | Switzerland vs Canada | 12:00 PM PT | Wednesday,
+Group B,"Wednesday, June 24, at 3:00 PM",12:00 PM,Bosnia,Qatar,52,"Lumen Field, Seattle",2026-06-24 15:00:00,Wednesday,False,Wednesday | Match 52 | Bosnia vs Qatar | 12:00 PM PT | Wednesday,
+Group C,"Wednesday, June 24, at 6:00 PM",3:00 PM,Scotland,Brazil,49,"Hard Rock Stadium, Miami Gardens",2026-06-24 18:00:00,Wednesday,False,Wednesday | Match 49 | Scotland vs Brazil | 3:00 PM PT | Wednesday,
+Group C,"Wednesday, June 24, at 6:00 PM",3:00 PM,Morocco,Haiti,50,"Mercedes-Benz Stadium, Atlanta",2026-06-24 18:00:00,Wednesday,False,Wednesday | Match 50 | Morocco vs Haiti | 3:00 PM PT | Wednesday,
+Group A,"Wednesday, June 24, at 9:00 PM",6:00 PM,Czechia,Mexico,53,"Estadio Azteca, Mexico City",2026-06-24 21:00:00,Wednesday,True,Wednesday | Match 53 | Czechia vs Mexico | 6:00 PM PT | Wednesday,🔥 AFTER 4PM PT
+Group A,"Wednesday, June 24, at 9:00 PM",6:00 PM,South Africa,South Korea,54,"Estadio BBVA, Guadalupe",2026-06-24 21:00:00,Wednesday,True,Wednesday | Match 54 | South Africa vs South Korea | 6:00 PM PT | Wednesday,🔥 AFTER 4PM PT
+Group E,"Thursday, June 25, at 4:00 PM",1:00 PM,Curacao,Ivory Coast,55,"Lincoln Financial Field, Philadelphia",2026-06-25 16:00:00,Thursday,False,Thursday | Match 55 | Curacao vs Ivory Coast | 1:00 PM PT | Thursday,
+Group E,"Thursday, June 25, at 4:00 PM",1:00 PM,Ecuador,Germany,56,"MetLife Stadium, East Rutherford",2026-06-25 16:00:00,Thursday,False,Thursday | Match 56 | Ecuador vs Germany | 1:00 PM PT | Thursday,
+Group F,"Thursday, June 25, at 7:00 PM",4:00 PM,Japan,Sweden,57,"AT&T Stadium, Arlington",2026-06-25 19:00:00,Thursday,True,Thursday | Match 57 | Japan vs Sweden | 4:00 PM PT | Thursday,🔥 AFTER 4PM PT
+Group F,"Thursday, June 25, at 7:00 PM",4:00 PM,Tunisia,Netherlands,58,"Arrowhead Stadium, Kansas City",2026-06-25 19:00:00,Thursday,True,Thursday | Match 58 | Tunisia vs Netherlands | 4:00 PM PT | Thursday,🔥 AFTER 4PM PT
+Group D,"Thursday, June 25, at 10:00 PM",7:00 PM,Turkey,United States,59,"SoFi Stadium, Inglewood",2026-06-25 22:00:00,Thursday,True,Thursday | Match 59 | Turkey vs United States | 7:00 PM PT | Thursday,🔥 AFTER 4PM PT
+Group D,"Thursday, June 25, at 10:00 PM",7:00 PM,Paraguay,Australia,60,"Levi's Stadium, Santa Clara",2026-06-25 22:00:00,Thursday,True,Thursday | Match 60 | Paraguay vs Australia | 7:00 PM PT | Thursday,🔥 AFTER 4PM PT
+Group I,"Friday, June 26, at 3:00 PM",12:00 PM,Norway,France,61,"Gillette Stadium, Foxborough",2026-06-26 15:00:00,Friday,False,Friday | Match 61 | Norway vs France | 12:00 PM PT | Friday,
+Group I,"Friday, June 26, at 3:00 PM",12:00 PM,Senegal,Iraq,62,"BMO Field, Toronto",2026-06-26 15:00:00,Friday,False,Friday | Match 62 | Senegal vs Iraq | 12:00 PM PT | Friday,
+Group H,"Friday, June 26, at 8:00 PM",5:00 PM,Cape Verde,Saudi Arabia,65,"NRG Stadium, Houston",2026-06-26 20:00:00,Friday,True,Friday | Match 65 | Cape Verde vs Saudi Arabia | 5:00 PM PT | Friday,🔥 AFTER 4PM PT
+Group H,"Friday, June 26, at 8:00 PM",5:00 PM,Uruguay,Spain,66,"Estadio Akron, Zapopan",2026-06-26 20:00:00,Friday,True,Friday | Match 66 | Uruguay vs Spain | 5:00 PM PT | Friday,🔥 AFTER 4PM PT
+Group G,"Friday, June 26, at 11:00 PM",8:00 PM,Egypt,Iran,63,"Lumen Field, Seattle",2026-06-26 23:00:00,Friday,True,Friday | Match 63 | Egypt vs Iran | 8:00 PM PT | Friday,🔥 AFTER 4PM PT
+Group G,"Friday, June 26, at 11:00 PM",8:00 PM,New Zealand,Belgium,64,"BC Place, Vancouver",2026-06-26 23:00:00,Friday,True,Friday | Match 64 | New Zealand vs Belgium | 8:00 PM PT | Friday,🔥 AFTER 4PM PT
+Group L,"Saturday, June 27, at 5:00 PM",2:00 PM,Panama,England,67,"MetLife Stadium, East Rutherford",2026-06-27 17:00:00,Saturday,False,Saturday | Match 67 | Panama vs England | 2:00 PM PT | Saturday,
+Group L,"Saturday, June 27, at 5:00 PM",2:00 PM,Croatia,Ghana,68,"Lincoln Financial Field, Philadelphia",2026-06-27 17:00:00,Saturday,False,Saturday | Match 68 | Croatia vs Ghana | 2:00 PM PT | Saturday,
+Group K,"Saturday, June 27, at 7:30 PM",4:30 PM,Colombia,Portugal,71,"Hard Rock Stadium, Miami Gardens",2026-06-27 19:30:00,Saturday,True,Saturday | Match 71 | Colombia vs Portugal | 4:30 PM PT | Saturday,🔥 AFTER 4PM PT
+Group K,"Saturday, June 27, at 7:30 PM",4:30 PM,DR Congo,Uzbekistan,72,"Mercedes-Benz Stadium, Atlanta",2026-06-27 19:30:00,Saturday,True,Saturday | Match 72 | DR Congo vs Uzbekistan | 4:30 PM PT | Saturday,🔥 AFTER 4PM PT
+Group J,"Saturday, June 27, at 10:00 PM",7:00 PM,Algeria,Austria,69,"Arrowhead Stadium, Kansas City",2026-06-27 22:00:00,Saturday,True,Saturday | Match 69 | Algeria vs Austria | 7:00 PM PT | Saturday,🔥 AFTER 4PM PT
+Group J,"Saturday, June 27, at 10:00 PM",7:00 PM,Jordan,Argentina,70,"AT&T Stadium, Arlington",2026-06-27 22:00:00,Saturday,True,Saturday | Match 70 | Jordan vs Argentina | 7:00 PM PT | Saturday,🔥 AFTER 4PM PT
+Round of 32,"Sunday, June 28, at 3:00 PM",12:00 PM,2A,2B,73,"Sofi Stadium, Inglewood",2026-06-28 15:00:00,Sunday,False,Sunday | Match 73 | 2A vs 2B | 12:00 PM PT | Sunday,
+Round of 32,"Monday, June 29, at 1:00 PM",10:00 AM,1C,2F,76,"NRG Stadium, Houston",2026-06-29 13:00:00,Monday,False,Monday | Match 76 | 1C vs 2F | 10:00 AM PT | Monday,
+Round of 32,"Monday, June 29, at 4:30 PM",1:30 PM,1E,3ABCDF,74,"Gillette Stadium, Foxborough",2026-06-29 16:30:00,Monday,False,Monday | Match 74 | 1E vs 3ABCDF | 1:30 PM PT | Monday,
+Round of 32,"Monday, June 29, at 9:00 PM",6:00 PM,1F,2C,75,"Estadio BBVA, Guadalupe",2026-06-29 21:00:00,Monday,True,Monday | Match 75 | 1F vs 2C | 6:00 PM PT | Monday,🔥 AFTER 4PM PT
+Round of 32,"Tuesday, June 30, at 2:00 PM",11:00 AM,2E,2I,78,"AT&T Stadium, Arlington",2026-06-30 14:00:00,Tuesday,False,Tuesday | Match 78 | 2E vs 2I | 11:00 AM PT | Tuesday,
+Round of 32,"Tuesday, June 30, at 5:00 PM",2:00 PM,1I,3CDFGH,77,"MetLife Stadium, East Rutherford",2026-06-30 17:00:00,Tuesday,False,Tuesday | Match 77 | 1I vs 3CDFGH | 2:00 PM PT | Tuesday,
+Round of 32,"Tuesday, June 30, at 9:00 PM",6:00 PM,1A,3CEFHI,79,"Estadio Azteca, Mexico City",2026-06-30 21:00:00,Tuesday,True,Tuesday | Match 79 | 1A vs 3CEFHI | 6:00 PM PT | Tuesday,🔥 AFTER 4PM PT
+Round of 32,"Wednesday, July 1, at 12:00 PM",9:00 AM,1L,3EHIJK,80,"Mercedes-Benz Stadium, Atlanta",2026-07-01 12:00:00,Wednesday,False,Wednesday | Match 80 | 1L vs 3EHIJK | 9:00 AM PT | Wednesday,
+Round of 32,"Wednesday, July 1, at 4:00 PM",1:00 PM,1G,3AEHIJ,82,"Lumen Field, Seattle",2026-07-01 16:00:00,Wednesday,False,Wednesday | Match 82 | 1G vs 3AEHIJ | 1:00 PM PT | Wednesday,
+Round of 32,"Wednesday, July 1, at 8:00 PM",5:00 PM,1D,3BEFIJ,81,"Levi's Stadium, Santa Clara",2026-07-01 20:00:00,Wednesday,True,Wednesday | Match 81 | 1D vs 3BEFIJ | 5:00 PM PT | Wednesday,🔥 AFTER 4PM PT
+Round of 32,"Thursday, July 2, at 3:00 PM",12:00 PM,1H,2J,84,"Sofi Stadium, Inglewood",2026-07-02 15:00:00,Thursday,False,Thursday | Match 84 | 1H vs 2J | 12:00 PM PT | Thursday,
+Round of 32,"Thursday, July 2, at 7:00 PM",4:00 PM,2K,2L,83,"BMO Field, Toronto",2026-07-02 19:00:00,Thursday,True,Thursday | Match 83 | 2K vs 2L | 4:00 PM PT | Thursday,🔥 AFTER 4PM PT
+Round of 32,"Thursday, July 2, at 11:00 PM",8:00 PM,2B,3EFGIJ,85,"BC Place, Vancouver",2026-07-02 23:00:00,Thursday,True,Thursday | Match 85 | 2B vs 3EFGIJ | 8:00 PM PT | Thursday,🔥 AFTER 4PM PT
+Round of 32,"Friday, July 3, at 2:00 PM",11:00 AM,2D,2G,88,"AT&T Stadium, Arlington",2026-07-03 14:00:00,Friday,False,Friday | Match 88 | 2D vs 2G | 11:00 AM PT | Friday,
+Round of 32,"Friday, July 3, at 6:00 PM",3:00 PM,1J,2H,86,"Hard Rock Stadium, Miami Gardens",2026-07-03 18:00:00,Friday,False,Friday | Match 86 | 1J vs 2H | 3:00 PM PT | Friday,
+Round of 32,"Friday, July 3, at 9:30 PM",6:30 PM,1K,3DEIJL,87,"Arrowhead Stadium, Kansas City",2026-07-03 21:30:00,Friday,True,Friday | Match 87 | 1K vs 3DEIJL | 6:30 PM PT | Friday,🔥 AFTER 4PM PT
+Round of 16,"Saturday, July 4, at 1:00 PM",10:00 AM,W73,W75,90,"NRG Stadium, Houston",2026-07-04 13:00:00,Saturday,False,Saturday | Match 90 | W73 vs W75 | 10:00 AM PT | Saturday,
+Round of 16,"Saturday, July 4, at 5:00 PM",2:00 PM,W74,W77,89,"Lincoln Financial Field, Philadelphia",2026-07-04 17:00:00,Saturday,False,Saturday | Match 89 | W74 vs W77 | 2:00 PM PT | Saturday,
+Round of 16,"Sunday, July 5, at 4:00 PM",1:00 PM,W76,W78,91,"MetLife Stadium, East Rutherford",2026-07-05 16:00:00,Sunday,False,Sunday | Match 91 | W76 vs W78 | 1:00 PM PT | Sunday,
+Round of 16,"Sunday, July 5, at 8:00 PM",5:00 PM,W79,W80,92,"Estadio Azteca, Mexico City",2026-07-05 20:00:00,Sunday,True,Sunday | Match 92 | W79 vs W80 | 5:00 PM PT | Sunday,🔥 AFTER 4PM PT
+Round of 16,"Monday, July 6, at 3:00 PM",12:00 PM,W83,W84,93,"AT&T Stadium, Arlington",2026-07-06 15:00:00,Monday,False,Monday | Match 93 | W83 vs W84 | 12:00 PM PT | Monday,
+Round of 16,"Monday, July 6, at 8:00 PM",5:00 PM,W81,W82,94,"Lumen Field, Seattle",2026-07-06 20:00:00,Monday,True,Monday | Match 94 | W81 vs W82 | 5:00 PM PT | Monday,🔥 AFTER 4PM PT
+Round of 16,"Tuesday, July 7, at 12:00 PM",9:00 AM,W86,W88,95,"Mercedes-Benz Stadium, Atlanta",2026-07-07 12:00:00,Tuesday,False,Tuesday | Match 95 | W86 vs W88 | 9:00 AM PT | Tuesday,
+Round of 16,"Tuesday, July 7, at 4:00 PM",1:00 PM,W85,W87,96,"BC Place, Vancouver",2026-07-07 16:00:00,Tuesday,False,Tuesday | Match 96 | W85 vs W87 | 1:00 PM PT | Tuesday,
+Quarterfinals,"Thursday, July 9, at 4:00 PM",1:00 PM,W89,W90,97,"Gillette Stadium, Foxborough",2026-07-09 16:00:00,Thursday,False,Thursday | Match 97 | W89 vs W90 | 1:00 PM PT | Thursday,
+Quarterfinals,"Friday, July 10, at 3:00 PM",12:00 PM,W93,W94,98,"Sofi Stadium, Inglewood",2026-07-10 15:00:00,Friday,False,Friday | Match 98 | W93 vs W94 | 12:00 PM PT | Friday,
+Quarterfinals,"Saturday, July 11, at 5:00 PM",2:00 PM,W91,W92,99,"Hard Rock Stadium, Miami Gardens",2026-07-11 17:00:00,Saturday,False,Saturday | Match 99 | W91 vs W92 | 2:00 PM PT | Saturday,
+Quarterfinals,"Saturday, July 11, at 9:00 PM",6:00 PM,W95,W96,100,"Arrowhead Stadium, Kansas City",2026-07-11 21:00:00,Saturday,True,Saturday | Match 100 | W95 vs W96 | 6:00 PM PT | Saturday,🔥 AFTER 4PM PT
+Semifinals,"Tuesday, July 14, at 3:00 PM",12:00 PM,W97,W98,101,"AT&T Stadium, Arlington",2026-07-14 15:00:00,Tuesday,False,Tuesday | Match 101 | W97 vs W98 | 12:00 PM PT | Tuesday,
+Semifinals,"Wednesday, July 15, at 3:00 PM",12:00 PM,W99,W100,102,"Mercedes-Benz Stadium, Atlanta",2026-07-15 15:00:00,Wednesday,False,Wednesday | Match 102 | W99 vs W100 | 12:00 PM PT | Wednesday,
+Third Place,"Saturday, July 18, at 5:00 PM",2:00 PM,L101,L102,103,"Hard Rock Stadium, Miami Gardens",2026-07-18 17:00:00,Saturday,False,Saturday | Match 103 | L101 vs L102 | 2:00 PM PT | Saturday,
+Final,"Sunday, July 19, at 3:00 PM",12:00 PM,W191,W102,104,"MetLife Stadium, East Rutherford",2026-07-19 15:00:00,Sunday,False,Sunday | Match 104 | W191 vs W102 | 12:00 PM PT | Sunday,
